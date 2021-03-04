@@ -10,6 +10,6 @@ else :
 if num > 1:
    print("Positif")
 elif num == 0:
-   print("Kosong")
+   print("Nol")
 else:
    print("Negatif")
