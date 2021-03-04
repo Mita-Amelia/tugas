@@ -6,8 +6,8 @@ elif x == 0 :
 else :
     print ("angka negatif")
     
-    num = float(input("Enter a number: "))
-if num > 0:
+    num = float(input("Enter a number: ")
+if num > 1:
    print("Positif")
 elif num == 0:
    print("Kosong")
