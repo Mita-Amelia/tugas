@@ -3,7 +3,7 @@
 
 /**
 *bundet.com
-*Menentukan Bilangan Bulat Positif, Negatif atau Nol
+*Menentukan Bilangan
 */
 
 void main() {
